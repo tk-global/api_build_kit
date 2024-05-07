@@ -1,0 +1,17 @@
+gth-foundation/settings_*.py
+
+*.pyc
+.venv
+
+.dev
+.env
+env-ath
+
+logs
+logs/*
+
+.DS_Store
+
+media
+static
+venv
